@@ -2,6 +2,8 @@
 
 # Inventory Management Web App Documentation
 
+### Deploy Link: [https://lucid-vikash.netlify.app/](url)
+
 ## Overview
   The Inventory Management Web App is a simple application that allows users to view a list of products and manage the inventory. The app has two views: Admin and User. Admins can     edit, delete, and disable products, while users can only view the products without any editing capabilities. The application leverages a RESTful API to fetch the inventory data and updates the UI dynamically.
 
